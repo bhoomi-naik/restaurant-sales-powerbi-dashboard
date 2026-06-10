@@ -220,9 +220,8 @@ restaurant-sales-powerbi-dashboard/
 Built as part of a Data Analytics Portfolio to demonstrate end-to-end Power BI development skills for Data Analyst and Data Science internship applications.
 
 Connect with me:
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your email]
-- Portfolio: [Add your portfolio URL]
+- LinkedIn: [https://www.linkedin.com/in/bhoomi-n-03176b289/]
+- Email: [bnaik3112@gmail.com]
 
 ---
 
