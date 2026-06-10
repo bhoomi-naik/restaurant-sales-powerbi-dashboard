@@ -17,7 +17,7 @@
 
 > Add your dashboard_preview.png to the repository and it will appear here
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_screenshot.png)
 
 ---
 
